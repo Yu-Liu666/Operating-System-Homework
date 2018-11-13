@@ -1,0 +1,4 @@
+本次项目,我完成project1和project2,project1的代码是Project1-1,Project1-2
+                                  project2的代码是Project2-1,Project2-2
+project1的代码需要通过Makefile编译
+project2的代码可以通过gcc运行,然后生成a.out文件,./a.out来运行
